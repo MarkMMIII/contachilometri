@@ -1,7 +1,7 @@
 # contachilometri.py
 Programma destinato ai lavoratori con rimborso dei km 
 TESTER
-se vuoi essere uno dei tester ti basta scaricare Xtester.zip che contiene il programma compilato .exe e pronto ad essere eseguito
+se vuoi essere uno dei tester ti basta scaricare l'ultima relase che contiene il programma compilato .exe e pronto ad essere eseguito
 il programma crea una cartella dove ci sono i file di output per ogni mese.
 
 COME USARLO
